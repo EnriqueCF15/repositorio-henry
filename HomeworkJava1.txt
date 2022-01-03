@@ -1,0 +1,15 @@
+Variables: Las variables son una forma de almacenar valor para poder usarlo más tarde, para crear una variable utilizamos el comnado var 
+
+Strings: Los strings son bloques de texto que se van a definir por comillas, cualquier texto entre comillas es un bloque, sean comillas simples o dobles.
+
+Funciones: También llamados objetos invocables, una función comenzará con la palabra clave function, a lo cual le sigue el nombre de la función, luego un parentesís abierto y uno cerrado y finalmente un corchete abierto y uno cerrado. Una función siempre necesita parentesís para poder ejecutarse.
+
+Argumentos: Cuando se declara la función si agregamos algo dentro de los parentesis de la función esta variable podrá usarse dentro de la función, siendo esto el argumento. Se pueden agregar multiples argumentos separandolos con una coma
+
+Return: Es la forma en que se obtienen datos a partir de la función, como valores escapando de la función. La única foirma de acceder a algo dentro de una función es devolviendo el valor, pero tambipen se pueden asignar variables para igualar lo que devuelve la función y de esa manera poder usar console.log() para retornar el valor de la función
+
+Declaraciones: "If" sirve como control de flujo ya que permite verificar si algo es verddero o no ya que funciona como un condicional, en caso se cumpla la condicional se ejecuta el código y en caso contrario lo omite y avanza.
+
+True: Sirve para ejecutar una función cuando la condición es verdadera
+
+False: Ejecuta la función cuando la condición dicha es falsa
